@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+.tab-content {
+    border: 1px solid #dee2e6;
+    border-top: none;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-block {
+    width: 100%;
+}
